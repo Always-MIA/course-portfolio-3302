@@ -1,8 +1,7 @@
 ---
-title: Creating docs and frontmatter
+title: About
 ---
-This is an example doc. Docs are Markdown files inside the `content/` directory.
-
+My name is Mia, I'm 22, and I love the art of music!
 ---
 
 ## Creating new docs

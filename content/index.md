@@ -1,9 +1,9 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: The Evolution of Music
 ---
 ## The index page
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+My topic will be over how various artists have evolved over the years.
 
 ## Editing pages
 
