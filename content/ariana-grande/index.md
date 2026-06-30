@@ -1,13 +1,11 @@
 ---
 title: Ariana Grande
 ---
-## The Category 01 category index page
+## Related Categories
 
-### What is this page?
+### How do they relate?
 
-This is an example category index page inside the knowledge base. This page is located within the `example-category-01` folder, which is located within the `content/` folder. 
-
-On your local computer, this page corresponds to the file path: `content/example-category-01/index.md`.
+Ariana Grande and [[the-weeknd/index|The Weeknd]] have made a lot of music together. Some people have been able to go on deep dives and discover that some of their discography even transitions into each other. This makes us wonder how planned this all is and how often they actually work together.
 
 ### Naming a category page's index
 
