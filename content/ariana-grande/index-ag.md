@@ -1,11 +1,11 @@
 ---
-title: The Weeknd
+title: Ariana Grande
 ---
 ## Related Categories
 
 ### How do they relate?
 
-The Weeknd and [[ariana-grande/index|Ariana Grande]] have made a lot of music together. Some people have been able to go on deep dives and discover that some of their discography even transitions into each other. This makes us wonder how planned this all is and how often they actually work together.
+Ariana Grande and [[index-tw|The Weeknd]] have made a lot of music together. Some people have been able to go on deep dives and discover that some of their discography even transitions into each other. This makes us wonder how planned this all is and how often they actually work together.
 
 ### Naming a category page's index
 
