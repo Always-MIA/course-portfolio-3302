@@ -1,5 +1,5 @@
 ---
-title: Category 02
+title: Zara Larrson
 ---
 ## The Category 02 category index page
 
