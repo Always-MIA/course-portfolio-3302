@@ -1,9 +1,9 @@
 ---
 title: Template for Knowledge Base Docs Websites
 ---
-## The index page
+## Music Evolution
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+This is my page where I will introduce my topic! I have a love for music and enjoy seeing how artists get creative to change up their music with the times. Some take on completely different genres while others are the same but different. It's very interesting to witness!
 
 ## Editing pages
 
@@ -38,5 +38,5 @@ You can use any text editor capable of opening and editing Markdown files.
 ---
 ## Adding new pages
 
-You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc 01]] to learn more.
+You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[about]] to learn more.
 

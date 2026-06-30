@@ -1,11 +1,13 @@
 ---
 title: Creating docs and frontmatter
 ---
-This is an example doc. Docs are Markdown files inside the `content/` directory.
+This is a doc all about me!
 
----
+## About Me
 
-## Creating new docs
+I'm Mia Singleton, 22, from Louisiana/Texas, and I love music! I've played violin since I was 9 and love to sing. I don't have time for my hobbies like I used to with my schedule, but when I get the chance it's always fun.
+
+
 
 Creating a new knowledge base doc is easy:
 
