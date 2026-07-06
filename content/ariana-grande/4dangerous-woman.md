@@ -30,7 +30,7 @@ The *Dangerous Woman Tour* marked a major milestone in Ariana’s career as her 
 
 ### Related Eras
 
-- [[my-everything|My Everything]] 
-- [[sweetener-thank-u-next|Sweetener & Thank U, Next]] 
+- [[3my-everything|My Everything]] 
+- [[5sweetener-thank-u-next|Sweetener & Thank U, Next]] 
 
 > "Dangerous Woman marked Ariana's transformation from rising pop star into an established artist."

@@ -28,9 +28,9 @@ These singles played a major role in Ariana’s breakout success. *Problem* and 
 
 ## Lasting Impact
 
-*My Everything* was the album that established Ariana Grande as a worldwide pop superstar. It showed that she could successfully transition from R&B-influenced beginnings into mainstream pop without losing her vocal identity. The commercial success of this album solidified her place in the industry and set the stage for a more mature artistic evolution in [[dangerous-woman|Dangerous Woman]].
+*My Everything* was the album that established Ariana Grande as a worldwide pop superstar. It showed that she could successfully transition from R&B-influenced beginnings into mainstream pop without losing her vocal identity. The commercial success of this album solidified her place in the industry and set the stage for a more mature artistic evolution in [[4dangerous-woman|Dangerous Woman]].
 
 ### Related Eras
 
-- [[yours-truly|Yours Truly]] 
-- [[dangerous-woman|Dangerous Woman]] 
+- [[2yours-truly|Yours Truly]] 
+- [[4dangerous-woman|Dangerous Woman]] 

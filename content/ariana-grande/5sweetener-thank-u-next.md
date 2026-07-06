@@ -40,7 +40,7 @@ Together, *Sweetener* and *Thank U, Next* represent one of the most emotionally 
 
 ### Related Eras
 
-- [[dangerous-woman|Dangerous Woman]] 
-- [[positions-eternal-sunshine|Positions & Eternal Sunshine]] 
+- [[4dangerous-woman|Dangerous Woman]] 
+- [[6positions-eternal-sunshine|Positions & Eternal Sunshine]] 
 
 > "These albums demonstrated how personal experiences can shape an artist's creative direction."

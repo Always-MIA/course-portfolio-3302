@@ -31,7 +31,7 @@ These tracks helped establish Ariana’s identity as a vocalist. *The Way* in pa
 
 ### Related Eras
 
-- [[my-everything|My Everything]] 
-- [[dangerous-woman|Dangerous Woman]] 
+- [[3my-everything|My Everything]] 
+- [[4dangerous-woman|Dangerous Woman]] 
 
 > "Every artist starts somewhere, and Yours Truly introduced Ariana's unmistakable voice to the world."

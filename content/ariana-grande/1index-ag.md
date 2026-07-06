@@ -4,11 +4,11 @@ Ariana Grande has evolved from a Nickelodeon actress into one of the most influe
 
 ## Music Evolution
 
-- [[yours-truly|Yours Truly (2013): Finding Her Sound]] 
-- [[my-everything|My Everything (2014): Becoming a Pop Star]] 
-- [[dangerous-woman|Dangerous Woman (2016): A More Mature Image]] 
-- [[sweetener-thank-u-next|Sweetener & Thank U, Next (2018-2019): Healing Through Music]] 
-- [[positions-eternal-sunshine|Positions & Eternal Sunshine (2020-2024): Growth, Reflection, and the Future]] 
+- [[2yours-truly|Yours truly (2013): Finding Her Sound]] 
+- [[3my-everything|My Everything (2014): Becoming a Pop Star]] 
+- [[4dangerous-woman|Dangerous Woman (2016): A More Mature Image]] 
+- [[5sweetener-thank-u-next|Sweetener & Thank U, Next (2018-2019): Healing Through Music]] 
+- [[6positions-eternal-sunshine|Positions & Eternal Sunshine (2020-2024): Growth, Reflection, and the Future]] 
 
 ## Why This Artist?
 

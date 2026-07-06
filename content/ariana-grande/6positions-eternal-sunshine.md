@@ -42,7 +42,7 @@ Across her career, Ariana Grande has continuously evolved in sound, image, and e
 
 ### Related Eras
 
-- [[sweetener-thank-u-next|Sweetener & Thank U, Next]] 
-- [[yours-truly|Yours Truly]] 
+- [[5sweetener-thank-u-next|Sweetener & Thank U, Next]] 
+- [[2yours-truly|Yours Truly]] 
 
 > "Even after more than a decade in music, Ariana continues to reinvent herself while staying true to her voice."
