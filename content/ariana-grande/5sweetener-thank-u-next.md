@@ -1,6 +1,6 @@
 # Sweetener & Thank U, Next (2018–2019): Healing Through Music
 
-![Sweetener Album Cover](sweetener.png)
+![Sweetener Album Cover](assets/sweetener.png)
 
 ## Sweetener
 
@@ -18,7 +18,7 @@ These tracks highlight resilience and emotional recovery. Each song blends upbea
 
 ---
 
-![Thank U, Next Album Cover](thank-u-next.jpg)
+![Thank U, Next Album Cover](assets/thank-u-next.jpg)
 
 ## Thank U, Next
 

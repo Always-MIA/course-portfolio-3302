@@ -1,6 +1,6 @@
 # Dangerous Woman (2016): A More Mature Image
 
-![Dangerous Woman Album Cover](dangerous-woman.jpg)
+![Dangerous Woman Album Cover](assets/dangerous-woman.jpg)
 
 ## Background
 

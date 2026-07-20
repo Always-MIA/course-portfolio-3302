@@ -1,6 +1,6 @@
 # My Everything (2014): Becoming a Pop Superstar
 
-![My Everything Album Cover](my-everything.jpg)
+![My Everything Album Cover](assets/my-everything.jpg)
 
 ## Background
 

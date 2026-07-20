@@ -1,6 +1,6 @@
 # Yours Truly (2013): Finding Her Sound
 
-![Yours Truly Album Cover](yours-truly.jpg)
+![Yours Truly Album Cover](assets/yours-truly.jpg)
 
 ## Background
 

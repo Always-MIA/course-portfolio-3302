@@ -1,6 +1,6 @@
 # Positions & Eternal Sunshine (2020–2024): Growth, Reflection, and the Future
 
-![Positions Album Cover](positions.jpeg)
+![Positions Album Cover](assets/positions.jpeg)
 
 ## Positions
 
@@ -18,7 +18,7 @@ These songs highlight the balance between sensuality and emotional depth, with *
 
 ---
 
-![Eternal Sunshine Album Cover](eternal-sunshine.jpg)
+![Eternal Sunshine Album Cover](assets/eternal-sunshine.jpg)
 
 ## Eternal Sunshine
 
