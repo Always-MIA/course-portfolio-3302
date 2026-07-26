@@ -1,6 +1,16 @@
-# Sweetener & Thank U, Next (2018–2019): Healing Through Music
+---
+title: Sweetener & Thank U, Next
+artist: Ariana Grande
+release: August 17, 2018 / February 8, 2019
+author: Mia Singleton
+date: 2026-07-26
+---
 
-![Sweetener Album Cover](assets/sweetener.png)
+# Sweetener & Thank U, Next
+
+![[sweetener.png]]
+
+**Release Date:** August 17, 2018
 
 ## Sweetener
 
@@ -18,7 +28,9 @@ These tracks highlight resilience and emotional recovery. Each song blends upbea
 
 ---
 
-![Thank U, Next Album Cover](assets/thank-u-next.jpg)
+![[thank-u-next.jpg]]
+
+**Release Date:** February 8, 2019
 
 ## Thank U, Next
 
@@ -38,9 +50,12 @@ These singles became cultural moments, especially *Thank U, Next*, which emphasi
 
 Together, *Sweetener* and *Thank U, Next* represent one of the most emotionally significant periods in Ariana Grande’s career. The albums show how personal experiences directly influenced her artistry, resulting in two connected bodies of work that balance healing, confidence, and self-reflection.
 
-### Related Eras
+--- 
 
-- [[4dangerous-woman|Dangerous Woman]] 
-- [[6positions-eternal-sunshine|Positions & Eternal Sunshine]] 
+Previous: [[dangerous-woman|Dangerous Woman]] 
+
+Next: [[positions-eternal-sunshine|Positions & Eternal Sunshine]] 
+
+Back to: [[ariana-grande/index|Ariana Grande]]
 
 > "These albums demonstrated how personal experiences can shape an artist's creative direction."

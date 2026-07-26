@@ -1,6 +1,16 @@
-# Yours Truly (2013): Finding Her Sound
+---
+title: Yours Truly
+artist: Ariana Grande
+release: August 30, 2013
+author: Mia Singleton
+date: 2026-07-26
+---
 
-![Yours Truly Album Cover](assets/yours-truly.jpg)
+# Yours Truly
+
+![[yours-truly.jpg]]
+
+**Release Date:** August 30, 2013
 
 ## Background
 
@@ -29,9 +39,10 @@ These tracks helped establish Ariana’s identity as a vocalist. *The Way* in pa
 
 *Yours Truly* is widely seen as the project that introduced Ariana Grande’s signature voice to the world. While she was still early in her career, the album showed her potential to blend R&B and pop in a way that stood out from other emerging artists at the time. It set the foundation for her future evolution into a global pop star.
 
-### Related Eras
+--- 
 
-- [[3my-everything|My Everything]] 
-- [[4dangerous-woman|Dangerous Woman]] 
+Next: [[my-everything|My Everything]] 
+
+Back to: [[ariana-grande/index|Ariana Grande]]
 
 > "Every artist starts somewhere, and Yours Truly introduced Ariana's unmistakable voice to the world."

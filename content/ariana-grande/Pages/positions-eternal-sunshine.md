@@ -1,6 +1,16 @@
-# Positions & Eternal Sunshine (2020–2024): Growth, Reflection, and the Future
+---
+title: Positions & Eternal Sunshine
+artist: Ariana Grande
+release: October 30, 2020 / March 8, 2024
+author: Mia Singleton
+date: 2026-07-26
+---
 
-![Positions Album Cover](assets/positions.jpeg)
+# Positions & Eternal Sunshine
+
+![[positions.jpeg]]
+
+**Release Date:** October 30, 2020
 
 ## Positions
 
@@ -18,7 +28,9 @@ These songs highlight the balance between sensuality and emotional depth, with *
 
 ---
 
-![Eternal Sunshine Album Cover](assets/eternal-sunshine.jpg)
+![[eternal-sunshine.jpg]]
+
+**Release Date:** March 8, 2024
 
 ## Eternal Sunshine
 
@@ -40,9 +52,10 @@ These tracks emphasize self-awareness, independence, and emotional processing, s
 
 Across her career, Ariana Grande has continuously evolved in sound, image, and emotional depth. *Positions* and *Eternal Sunshine* demonstrate her ability to adapt while maintaining a consistent vocal identity. Looking forward, fans expect her to continue blending personal storytelling with innovative pop production as she enters a more mature phase of her career.
 
-### Related Eras
+---
 
-- [[5sweetener-thank-u-next|Sweetener & Thank U, Next]] 
-- [[2yours-truly|Yours Truly]] 
+Previous: [[sweetener-thank-u-next|Sweetener & Thank U, Next]] 
+
+Back to: [[ariana-grande/index|Ariana Grande]]
 
 > "Even after more than a decade in music, Ariana continues to reinvent herself while staying true to her voice."

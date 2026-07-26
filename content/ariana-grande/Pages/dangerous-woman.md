@@ -1,6 +1,16 @@
-# Dangerous Woman (2016): A More Mature Image
+---
+title: Dangerous Woman
+artist: Ariana Grande
+release: May 20, 2016
+author: Mia Singleton
+date: 2026-07-26
+---
 
-![Dangerous Woman Album Cover](assets/dangerous-woman.jpg)
+# Dangerous Woman
+
+![[dangerous-woman.jpg]]
+
+**Release Date:** May 20, 2016
 
 ## Background
 
@@ -28,9 +38,12 @@ These tracks showcase different sides of the album’s identity. *Dangerous Woma
 
 The *Dangerous Woman Tour* marked a major milestone in Ariana’s career as her first large-scale global tour. It demonstrated her ability to command major stages and solidified her status as a top-tier pop performer. The era overall represented a clear transition from rising pop star to established global artist.
 
-### Related Eras
+---
 
-- [[3my-everything|My Everything]] 
-- [[5sweetener-thank-u-next|Sweetener & Thank U, Next]] 
+Previous: [[my-everything|My Everything]] 
+
+Next: [[sweetener-thank-u-next|Sweetener & Thank U, Next]] 
+
+Back to: [[ariana-grande/index|Ariana Grande]]
 
 > "Dangerous Woman marked Ariana's transformation from rising pop star into an established artist."
