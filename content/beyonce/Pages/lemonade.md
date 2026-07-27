@@ -40,7 +40,7 @@ Many critics consider *Lemonade* one of the greatest albums of the twenty-first 
 ## Navigation
 
 Previous:
-[[beyonce|Beyoncé]]
+[[beyonce-|Beyoncé]]
 
 Next:
 [[the-lion-king-the-gift|The Lion King: The Gift]]
