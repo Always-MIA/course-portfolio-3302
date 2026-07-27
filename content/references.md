@@ -58,7 +58,7 @@ This knowledge base was created using information from official artist websites,
 - [[index|Home]]
 - [[about|About Me]]
 - [[ariana-grande/index|Ariana Grande]]
-- [[beyonce/index|Beyoncé]]
+- [[beyonce-/index|Beyoncé]]
 - [[charli-xcx/index|Charli XCX]]
 - [[the-weeknd/index|The Weeknd]]
 - [[zara-larsson/index|Zara Larsson]]

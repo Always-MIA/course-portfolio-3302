@@ -26,7 +26,7 @@ Ariana Grande is an American singer, songwriter, and actress known for her power
 
 Beyoncé is one of the most influential artists in modern music, recognized for her groundbreaking albums and innovative performances.
 
-→ [[beyonce/index|Beyoncé]]
+→ [[beyonce-/index|Beyoncé]]
 
 ---
 

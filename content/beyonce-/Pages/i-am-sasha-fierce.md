@@ -46,4 +46,4 @@ Next:
 [[4|4]]
 
 Back to:
-[[beyonce/index|Beyoncé]]
+[[beyonce-/index|Beyoncé]]

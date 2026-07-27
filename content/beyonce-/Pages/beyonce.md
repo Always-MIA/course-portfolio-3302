@@ -46,4 +46,4 @@ Next:
 [[lemonade|Lemonade]]
 
 Back to:
-[[beyonce/index|Beyoncé]]
+[[beyonce-/index|Beyoncé]]

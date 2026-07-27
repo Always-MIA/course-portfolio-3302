@@ -43,4 +43,4 @@ Previous:
 [[renaissance|Renaissance]]
 
 Back to:
-[[beyonce/index|Beyoncé]]
+[[beyonce-/index|Beyoncé]]

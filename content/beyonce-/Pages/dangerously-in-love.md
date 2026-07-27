@@ -43,4 +43,4 @@ Next:
 [[bday|B'Day]]
 
 Back to:
-[[beyonce/index|Beyoncé]]
+[[beyonce-/index|Beyoncé]]

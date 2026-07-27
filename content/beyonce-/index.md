@@ -18,7 +18,7 @@ Beyoncé is an American singer, songwriter, actress, and businesswoman. After ri
 - [[bday|B'Day]]
 - [[i-am-sasha-fierce|I Am... Sasha Fierce]]
 - [[4|4]]
-- [[beyonce-|Beyoncé]]
+- [[beyonce|Beyoncé]]
 - [[lemonade|Lemonade]]
 - [[the-lion-king-the-gift|The Lion King: The Gift]]
 - [[renaissance|Renaissance]]

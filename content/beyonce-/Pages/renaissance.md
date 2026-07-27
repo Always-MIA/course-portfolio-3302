@@ -46,4 +46,4 @@ Next:
 [[cowboy-carter|Cowboy Carter]]
 
 Back to:
-[[beyonce/index|Beyoncé]]
+[[beyonce-/index|Beyoncé]]

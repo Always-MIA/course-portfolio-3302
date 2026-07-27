@@ -40,10 +40,10 @@ The album debuted at number one on the Billboard 200 and became a commercial suc
 ## Navigation
 
 Previous:
-[[Dangerously-in-love|Dangerously in Love]]
+[[dangerously-in-love|Dangerously in Love]]
 
 Next:
 [[i-am-sasha-fierce|I Am... Sasha Fierce]]
 
 Back to:
-[[beyonce/index|Beyoncé]]
+[[beyonce-/index|Beyoncé]]
